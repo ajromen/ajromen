@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Software Engineering and Information Technology student, Faculty of Technical Sciences, Novi Sad
 <!--
 **ajromen/ajromen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
